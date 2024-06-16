@@ -1,0 +1,17 @@
+C:\Users\faruk\source\repos\Ödev(film dükkanı)\Ödev(film dükkanı)\bin\Debug\net8.0-windows\Ödev(film dükkanı).exe
+C:\Users\faruk\source\repos\Ödev(film dükkanı)\Ödev(film dükkanı)\bin\Debug\net8.0-windows\Ödev(film dükkanı).deps.json
+C:\Users\faruk\source\repos\Ödev(film dükkanı)\Ödev(film dükkanı)\bin\Debug\net8.0-windows\Ödev(film dükkanı).runtimeconfig.json
+C:\Users\faruk\source\repos\Ödev(film dükkanı)\Ödev(film dükkanı)\bin\Debug\net8.0-windows\Ödev(film dükkanı).dll
+C:\Users\faruk\source\repos\Ödev(film dükkanı)\Ödev(film dükkanı)\bin\Debug\net8.0-windows\Ödev(film dükkanı).pdb
+C:\Users\faruk\source\repos\Ödev(film dükkanı)\Ödev(film dükkanı)\obj\Debug\net8.0-windows\Ödev_film_dükkanı_.Form1.resources
+C:\Users\faruk\source\repos\Ödev(film dükkanı)\Ödev(film dükkanı)\obj\Debug\net8.0-windows\Ödev_film_dükkanı_.Form2.resources
+C:\Users\faruk\source\repos\Ödev(film dükkanı)\Ödev(film dükkanı)\obj\Debug\net8.0-windows\Ödev(film dükkanı).csproj.GenerateResource.cache
+C:\Users\faruk\source\repos\Ödev(film dükkanı)\Ödev(film dükkanı)\obj\Debug\net8.0-windows\Ödev(film dükkanı).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faruk\source\repos\Ödev(film dükkanı)\Ödev(film dükkanı)\obj\Debug\net8.0-windows\Ödev(film dükkanı).AssemblyInfoInputs.cache
+C:\Users\faruk\source\repos\Ödev(film dükkanı)\Ödev(film dükkanı)\obj\Debug\net8.0-windows\Ödev(film dükkanı).AssemblyInfo.cs
+C:\Users\faruk\source\repos\Ödev(film dükkanı)\Ödev(film dükkanı)\obj\Debug\net8.0-windows\Ödev(film dükkanı).csproj.CoreCompileInputs.cache
+C:\Users\faruk\source\repos\Ödev(film dükkanı)\Ödev(film dükkanı)\obj\Debug\net8.0-windows\Ödev(film dükkanı).dll
+C:\Users\faruk\source\repos\Ödev(film dükkanı)\Ödev(film dükkanı)\obj\Debug\net8.0-windows\refint\Ödev(film dükkanı).dll
+C:\Users\faruk\source\repos\Ödev(film dükkanı)\Ödev(film dükkanı)\obj\Debug\net8.0-windows\Ödev(film dükkanı).pdb
+C:\Users\faruk\source\repos\Ödev(film dükkanı)\Ödev(film dükkanı)\obj\Debug\net8.0-windows\Ödev(film dükkanı).genruntimeconfig.cache
+C:\Users\faruk\source\repos\Ödev(film dükkanı)\Ödev(film dükkanı)\obj\Debug\net8.0-windows\ref\Ödev(film dükkanı).dll
